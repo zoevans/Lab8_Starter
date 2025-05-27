@@ -1,1 +1,3 @@
 # Lab8-Starter
+
+The idea of graceful degradation involves addressing the lower levels of our code with grace, or, in other words, ensuring that our code is able to maintain some form of functionality even when some components fail or break down. The service workers allow our code in this lab to do just that by allowing our code to be able to still perform even when a component of our application fails (in the form of our browser not having access to the internet). In this way, the service workers in our code are helping implement the philosophy of graceful degradation in our code for this lab.
